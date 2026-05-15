@@ -12,7 +12,8 @@ Python client for the **flexs.lol** API (Supabase backend).
 # From the zip / source
 pip install .
 
-# Or drop the folder next to your script and import directly
+# Or
+pip install git+https://github.com/delusionallov3/mommyflexs.git
 ```
 
 **Requires:** Python ≥ 3.8, `requests`
